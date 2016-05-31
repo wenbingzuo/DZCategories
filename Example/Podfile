@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DZCategories_Tests' do
+  pod 'DZCategories', :path => '../'
+  
+  
+end
