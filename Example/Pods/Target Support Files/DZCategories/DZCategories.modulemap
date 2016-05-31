@@ -1,0 +1,6 @@
+framework module DZCategories {
+  umbrella header "DZCategories-umbrella.h"
+
+  export *
+  module * { export * }
+}

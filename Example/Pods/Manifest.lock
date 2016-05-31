@@ -1,0 +1,16 @@
+PODS:
+  - DZCategories (0.1.0)
+
+DEPENDENCIES:
+  - DZCategories (from `../`)
+
+EXTERNAL SOURCES:
+  DZCategories:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DZCategories: a87fcad79d9e9e21b27dbf4881542b84788367a7
+
+PODFILE CHECKSUM: 1941e5597906f0f33cdf40f9d8c3127a9beffef5
+
+COCOAPODS: 1.0.0
